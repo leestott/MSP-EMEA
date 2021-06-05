@@ -104,17 +104,17 @@ We'll review this project that has the finished code for serving a TensorFlow ba
 
 Azure:
 
-- [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=customvisionclassification-github-beverst): $100 / year free Azure Credit for Students
+- [Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=academic-0000-leestott): $100 / year free Azure Credit for Students
 
 Documentation:
 
-- [Azure Custom Vision Service](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/home?WT.mc_id=customvisionclassification-github-beverst)
+- [Azure Custom Vision Service](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/home?WT.mc_id=academic-0000-leestott)
 
-  - [Use an exported model in tensorflow](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-model-python?WT.mc_id=customvisionclassification-github-beverst)
+  - [Use an exported model in tensorflow](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/export-model-python?WT.mc_id=academic-0000-leestott)
 
-  - [Use the Prediction API for the hosted classification model](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial?WT.mc_id=customvisionclassification-github-beverst)
+  - [Use the Prediction API for the hosted classification model](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/python-tutorial?WT.mc_id=academic-0000-leestott)
 
-- [Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python?tabs=bash&WT.mc_id=customvisionclassification-github-beverst): Host Python web applications
+- [Azure App Service](https://docs.microsoft.com/azure/app-service/containers/quickstart-python?tabs=bash&WT.mc_id=academic-0000-leestott): Host Python web applications
 
 Github repos:
 
